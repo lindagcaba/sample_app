@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+ <head>
+	 <title>Ruby on Rails Tutorial |About</title>
+ </head>	
+<h1>About Us</h1>
+<p><a href="http://railstutorial.org">Ruby on Rials Tutorial</a></p>
+</html>

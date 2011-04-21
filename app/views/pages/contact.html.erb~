@@ -1,6 +1,13 @@
-
+<!DOCTYPE html>
+<html>
+<head>
+	<title> Ruby on Rails Tutorial|Contact</title>
+</head>
+<body>
 	<h1>Contact</h1>
 	<p>
 	Contact Rub on Rails about the sample app at the
 <a href="http://railstutorial.org/feedback">feedback page</a>.
-   </p>
+
+</body>
+</html>
